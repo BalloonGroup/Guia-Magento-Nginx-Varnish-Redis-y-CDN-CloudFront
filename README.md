@@ -1,4 +1,4 @@
-# Instale Magento 2.3.2 en AWS Ubuntu 18.04 SSL completo con Nginx Redis Varnish y Cloudfront
+# Instale Magento 2.3.4 en AWS Ubuntu 18.04 SSL completo con Nginx Redis Varnish y Cloudfront
 
 ## Preparación de la instalación
 
