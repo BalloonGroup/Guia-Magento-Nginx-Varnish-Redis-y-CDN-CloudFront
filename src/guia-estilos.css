@@ -1,0 +1,57 @@
+#header {
+    background-color: black;
+    color: white;
+    padding: 2rem 0;
+}
+
+#header img {
+    display: block;
+    max-width: 100px;
+    margin: 0 auto 1em;
+}
+
+#header h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+#tutorial {
+    padding: 2rem 0;
+}
+
+#tutorial h2 {
+    text-align: center;
+    margin: 1rem auto;
+    padding: 2rem 0 0;
+    border-top: 2px dashed #000000;
+}
+
+#tutorial h3 {
+    margin: 2rem auto 1rem;
+}
+
+#tutorial img {
+    display: block;
+    max-width: 600px;
+    margin: 1.5rem auto;
+}
+
+#tutorial p {
+    margin-bottom: .5rem;
+}
+
+#tutorial pre {
+    background-color: #efefef;
+    max-width: 80%;
+    margin: 1rem auto;
+    padding: 0 2rem;
+}
+
+#tutorial table {
+    margin: 1.5rem auto;
+}
+
+#tutorial th, #tutorial td {
+    border: 1px solid;
+    padding: 0.3rem 0.5rem;
+}
